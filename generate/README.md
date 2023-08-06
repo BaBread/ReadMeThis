@@ -40,6 +40,3 @@
   ## Questions
   My GitHub: [BaBread](https://github.com/BaBread) <br>
   Email me: dfleon2011@gmail.com
-
-  ## Images
-  ![Prompt Image](./assets/prompt.PNG)
