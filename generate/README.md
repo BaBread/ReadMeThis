@@ -1,10 +1,10 @@
-# ReadMeThis
+# TestReadMe
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Description
 
-  This project creates a basic ReadMe file based on prompts given in terminal
+  This project creates a world of magic
 
   ## Table of Contents
 
@@ -17,25 +17,25 @@
 
   ## Installation
 
-  npm add inquirer
+  Provide mana to project
 
   ## Usage
 
-  This can be used to make creating ReadMe files much easier for your projects
+  This will be used to solve all problems in the world
 
   ## License
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   
-  https://opensource.org/licenses/MIT 
+  https://opensource.org/licenses/MPL-2.0 
     
 
   ## Contributing
   
-  Contact BaBread
+  Pay me money
   
   ## Tests
-  No tests
+  Test everything
 
   ## Questions
   My GitHub: [BaBread](https://github.com/BaBread) <br>
